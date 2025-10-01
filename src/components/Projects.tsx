@@ -112,7 +112,7 @@ const Projects = () => {
                       alt={project.title}
                       className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                     />
-                    <div className="absolute inset-0 bg-gradient-to-t from-luxury-navy via-luxury-navy/50 to-transparent opacity-60 group-hover:opacity-80 transition-opacity duration-300"></div>
+                    {/* <div className="absolute inset-0 bg-gradient-to-t from-luxury-navy via-luxury-navy/50 to-transparent opacity-60 group-hover:opacity-80 transition-opacity duration-300"></div> */}
                     {/* <div className="absolute top-4 right-4 p-3 glassmorphism rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                       <ExternalLink className="w-6 h-6 text-luxury-gold" />
                     </div> */}
