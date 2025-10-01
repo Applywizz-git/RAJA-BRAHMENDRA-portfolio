@@ -163,7 +163,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2">
+      {/* <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2">
         <motion.div
           animate={{ y: [0, 10, 0] }}
           transition={{ duration: 2, repeat: Infinity }}
@@ -175,7 +175,7 @@ const Hero = () => {
             className="w-1.5 h-1.5 bg-luxury-gold rounded-full"
           ></motion.div>
         </motion.div>
-      </div>
+      </div> */}
     </section>
   );
 };
