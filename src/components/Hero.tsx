@@ -155,7 +155,7 @@ const Hero = () => {
                 className="relative w-full h-full bg-gradient-to-br from-luxury-gold/20 to-luxury-bronze/20 rounded-max flex items-center justify-center overflow-hidden border-4 border-luxury-gold/50"
               >
                 <div className="w-full h-full bg-luxury-silver/10 flex items-center justify-center text-6xl font-display font-extrabold text-luxury-gold">
-                <img src='/profileima2.png'/>
+                <img src='/profileimage3.png'/>
                 </div>
               </motion.div>
             </div>
