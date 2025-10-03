@@ -328,7 +328,7 @@ const Hero = () => {
               </a>
 
               <a
-                href="public/RESUME_RAJA BRAHMENDRA VEEREPALLI_DA 1.pdf"
+                href="/RESUME_RAJA BRAHMENDRA VEEREPALLI_DA 1.pdf"
                 download
                 className="group relative px-8 py-4 glassmorphism text-luxury-cream font-semibold rounded-lg overflow-hidden hover:scale-105 transition-transform duration-300"
               >
